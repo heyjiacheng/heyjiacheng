@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I'm a graduate student passionate about applied mathematics, computer simulations, and robotics. Currently, I collaborate with two talented friends on a Retrieval-Augmented Generation (RAG) project.
+Welcome to my GitHub! 👋 I'm a graduate student passionate about applied mathematics and robotics. Currently, I collaborate with two talented friends on a Retrieval-Augmented Generation (RAG) project.
 
 ---
 

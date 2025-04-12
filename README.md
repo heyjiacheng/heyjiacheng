@@ -1,7 +1,6 @@
 ### Welcome to my GitHub 👋
 
 Hi, I am Jiacheng Xu(徐嘉澄). 
-
 **[Chinese Version](README_CN.md)**
 
 ## 📖
@@ -27,7 +26,10 @@ Hi, I am Jiacheng Xu(徐嘉澄).
 
 ## ⭐️
 
-My interests focused on the vision-language model and robot learning.
+I'm passionate about applied mathematics and robotics. 
+My research interests focused on the vision-language model and robot learning.
+Also! I collaborate with two talented friends on a Retrieval-Augmented Generation (RAG) start-up program.
+
 
 ---
 

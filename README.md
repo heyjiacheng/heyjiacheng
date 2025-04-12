@@ -1,14 +1,10 @@
-# Jiacheng Xu
+### Welcome to my GitHub 👋
+
+Hi, I am Jiacheng Xu(徐嘉澄). 
 
 **[Chinese Version](README_CN.md)**
 
----
-
-Welcome to my GitHub! 👋 I'm a graduate student passionate about applied mathematics and robotics. Currently, I collaborate with two talented friends on a Retrieval-Augmented Generation (RAG) project.
-
----
-
-## Education
+## 📖
 
 - **2023 – Present**  
   MSc in Computer Simulations for Science and Engineering (COSSE)  
@@ -28,23 +24,14 @@ Welcome to my GitHub! 👋 I'm a graduate student passionate about applied mathe
 
 ---
 
-## Skills
 
-- **Technical Skills**: Mathematical Modeling, Computer Simulation, Applied Mechanics, Embedded Systems  
-- **Design Software**: SolidWorks, AutoCAD  
-- **Programming**: Python, C++, Rust  
-- **Languages**: English (Fluent), Mandarin (Native), German (A2)
+## ⭐️
+
+My interests focused on the vision-language model and robot learning.
 
 ---
 
-## Interests
-
-- **Sports**: Badminton, Table Tennis  
-- **Hobbies**: Exploring advancements in AI and robotics, open-source collaboration
-
----
-
-## Contact
+## 📫
 
 - **Personal Email**: xujiacheng1016@hotmail.com  
 - **Academic Emails**: jiacxu@kth.se | j.xu@campus.tu-berlin.de  

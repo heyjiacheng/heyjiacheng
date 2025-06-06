@@ -1,7 +1,9 @@
 ### Welcome to my GitHub 👋
 
 Hi, I am Jiacheng Xu(徐嘉澄). 
-**[Chinese Version](README_CN.md)**
+**[Chinese Version](README_CN.md)** 
+
+Recently, I have been integrating Robots with Gaussian Splatting.
 
 ## 📖
 
@@ -18,7 +20,6 @@ Hi, I am Jiacheng Xu(徐嘉澄).
   Qingdao Institute of Technology
 
 - **2015 – 2018**  
-  Science Program  
   Zhejiang Cixi Middle School
 
 ---

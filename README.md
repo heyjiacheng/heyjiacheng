@@ -3,20 +3,20 @@
 I am Jiacheng Xu(徐嘉澄). 
 **[Chinese Version](README_CN.md)** 
 
-Recently, I have been integrating Robots with Gaussian Splatting.
+Recently, I have been developing robot vision-language-action models on humanoid robots.
 
 ## 📖
 
 - **2023 – Present**  
-  MSc in Computer Simulations for Science and Engineering (COSSE)  
+  M.Sc in Computer Simulations for Science and Engineering (COSSE)  
   TU Berlin & KTH Royal Institute of Technology
 
 - **2022 – 2023**  
-  MSc in Robotics  
+  M.Sc in Robotics  
   University of Bath
 
 - **2018 – 2022**  
-  BEng in Mechanical Engineering  
+  B.Eng in Mechanical Engineering  
   Qingdao Institute of Technology
 
 - **2015 – 2018**  
@@ -27,8 +27,8 @@ Recently, I have been integrating Robots with Gaussian Splatting.
 
 ## ⭐️
 
-I'm passionate about applied mathematics and robotics. 
-My research interests focused on the vision-language model and robot learning.
+I'm passionate about using applied mathematics to solve robotic problems. 
+
 Also! I collaborate with two talented friends on a Retrieval-Augmented Generation (RAG) start-up program.
 
 

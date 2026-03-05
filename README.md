@@ -3,7 +3,7 @@
 I am Jiacheng Xu(徐嘉澄). 
 **[Chinese Version](README_CN.md)** 
 
-Recently, I have been developing robot vision-language-action models on humanoid robots.
+Recently, I have been developing vision-language-action models on humanoid robots.
 
 ## 📖
 

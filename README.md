@@ -3,12 +3,18 @@
 I am Jiacheng Xu(徐嘉澄). 
 **[Chinese Version](README_CN.md)** 
 
-Recently, I have been developing vision-language-action models on humanoid robots.
+## ⭐️
+
+Recently, I have been researching a better representation of humanoid robot learning.
 
 ## 📖
 
-- **2023 – Present**  
-  M.Sc in Computer Simulations for Science and Engineering (COSSE)  
+- **2026 – Present**  
+  PhD in Robot Learning
+  Robotics, Perception and Learning (RPL) Lab
+
+- **2023 – 2025**  
+  M.Sc in Applied Math 
   TU Berlin & KTH Royal Institute of Technology
 
 - **2022 – 2023**  
@@ -19,28 +25,14 @@ Recently, I have been developing vision-language-action models on humanoid robot
   B.Eng in Mechanical Engineering  
   Qingdao Institute of Technology
 
-- **2015 – 2018**  
-  Zhejiang Cixi Middle School
-
----
-
-
-## ⭐️
-
-I'm passionate about using applied mathematics to solve robotic problems. 
-
-Also! I collaborate with two talented friends on a Retrieval-Augmented Generation (RAG) start-up program.
-
-
 ---
 
 ## 📫
 
-- **Personal Email**: xujiacheng1016@hotmail.com  
-- **Academic Emails**: jiacxu@kth.se | j.xu@campus.tu-berlin.de  
-- **LinkedIn**: [Jiacheng Xu](https://www.linkedin.com/in/jiacheng-xu-293373241/)  
-- **Team Email**: (To be updated)
+- [**Personal Website**](https://heyjiacheng.github.io/)  
+- jiacxu@kth.se
+- [**LinkedIn**](https://www.linkedin.com/in/jiacheng-xu-293373241/)  
 
 ---
 
-Feel free to explore my repositories and connect with me for collaborations or discussions!
+Feel free to connect with me for collaborations or discussions!

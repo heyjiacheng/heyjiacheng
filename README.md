@@ -10,11 +10,11 @@ Recently, I have been researching a better representation of humanoid robot lear
 ## 📖
 
 - **2026 – Present**  
-  PhD in Robot Learning
+  PhD in Robot Learning  
   Robotics, Perception and Learning (RPL) Lab
 
 - **2023 – 2025**  
-  M.Sc in Applied Math 
+  M.Sc in Applied Math  
   TU Berlin & KTH Royal Institute of Technology
 
 - **2022 – 2023**  
